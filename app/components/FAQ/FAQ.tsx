@@ -121,7 +121,7 @@ export default function FAQ() {
                         还有其他问题？
                     </p>
                     <a
-                        href="https://wa.me/60123456789?text=你好，我有一些问题想咨询 🍀"
+                        href="https://wa.me/60142280388?text=你好，我有一些问题想咨询 🍀"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="inline-flex items-center gap-2 px-6 py-3 bg-white/60 backdrop-blur-md border border-white/40 text-forest rounded-full font-sans font-semibold hover:bg-champagne-gold/20 transition-colors shadow-md hover:shadow-lg"

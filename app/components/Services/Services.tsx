@@ -106,7 +106,7 @@ export default function Services() {
                         准备好开始你的健康之旅了吗？
                     </p>
                     <a
-                        href="https://wa.me/60123456789?text=你好，我想预约免费健康咨询 🍀"
+                        href="https://wa.me/60142280388?text=你好，我想预约免费健康咨询 🍀"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group inline-flex items-center justify-center gap-3 px-10 py-5 bg-gradient-to-r from-champagne-gold to-champagne-dark text-forest rounded-full font-sans font-bold text-lg shadow-xl hover:shadow-2xl hover:scale-105 transition-all duration-300"

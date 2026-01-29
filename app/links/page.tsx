@@ -11,14 +11,14 @@ const links = [
         title: "最新灵芝团购",
         subtitle: "Group Buy",
         icon: ShoppingBag,
-        href: "https://wa.me/60123456789?text=我想了解最新的灵芝团购",
+        href: "https://wa.me/60142280388?text=我想了解最新的灵芝团购",
         gradient: "from-champagne-gold to-champagne-dark",
     },
     {
         title: "预约 1对1 咨询",
         subtitle: "Personal Consultation",
         icon: MessageCircle,
-        href: "https://wa.me/60123456789?text=我想预约1对1健康咨询",
+        href: "https://wa.me/60142280388?text=我想预约1对1健康咨询",
         gradient: "from-forest-light to-forest",
     },
     {

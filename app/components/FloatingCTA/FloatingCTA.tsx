@@ -8,7 +8,7 @@ export default function FloatingCTA() {
     const [isHovered, setIsHovered] = useState(false);
 
     // Replace with actual WhatsApp number
-    const whatsappNumber = "60123456789"; // Format: country code + number (no + or spaces)
+    const whatsappNumber = "60142280388"; // Format: country code + number (no + or spaces)
     const whatsappMessage = encodeURIComponent("你好，我想了解灵芝健康引导服务 🍀");
     const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`;
 

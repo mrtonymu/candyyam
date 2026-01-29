@@ -154,7 +154,7 @@ export default function Hero() {
                     <div className="flex items-center gap-3 px-6 py-3 bg-white/40 backdrop-blur-md rounded-2xl border border-white/20">
                         <Clock className="w-5 h-5 text-champagne-gold" />
                         <div className="text-left">
-                            <div className="text-2xl font-serif font-bold text-forest">3年+</div>
+                            <div className="text-2xl font-serif font-bold text-forest">14年+</div>
                             <div className="text-xs text-forest/60 font-sans">专业经验</div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@ export default function Hero() {
                     className="flex flex-col sm:flex-row items-center justify-center gap-4"
                 >
                     <a
-                        href="https://wa.me/60123456789?text=你好，我想了解免费健康咨询"
+                        href="https://wa.me/60142280388?text=你好，我想了解免费健康咨询"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group w-full sm:w-auto px-8 py-4 bg-gradient-to-r from-champagne-gold to-champagne-dark text-forest rounded-full font-sans font-semibold text-lg shadow-lg hover:shadow-xl transition-all hover:scale-105"
